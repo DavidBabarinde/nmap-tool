@@ -89,8 +89,7 @@ while True:
 
     elif user_input == "e":
         print('\nExiting program...\n')
-
-		break
+        break
 
     else:
         print("\nInvalid input. Try again!\n")
